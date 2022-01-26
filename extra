@@ -1,0 +1,14 @@
+            <div class="row justify-content-center my-5">
+                <div class="col-md-auto" style="background-color: #25283b; text-align: center;">
+                    <h3 >Powerfull Hardware</h3>
+                    <p style="text-align: left;">We Use The Best Possible Equipment Currently Available<br> In The Market.Up To 4GHz Standard Service & Up To 5GHz<br> With Premium</p>
+                </div>
+                <div class="col-md-auto" style="background-color: #25283b; text-align: center;">
+                    <h3>Modpack Support</h3>
+                    <p style="text-align: left;">Be 1 Click Away From Installing Popular ServerTypes! <br>Easily Switch Between Mods At Any Time!</p>
+                </div>
+                <div class="col-md-auto" style="background-color: #25283b; text-align: center;">
+                    <h3>24/7 Support</h3>
+                    <p style="text-align: left;">Contact Us Anytime Through A Live Chat! <br>We Will Try To Help You.</p>
+                </div>
+            </div>
