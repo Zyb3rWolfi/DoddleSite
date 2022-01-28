@@ -16,3 +16,9 @@
             <div style="text-align: center; margin-top: 50px; margin-left: -1120px;">
                 <p class="" style="color: #4f5060;">Copyright © 2021 DODDLE Ltd. All rights reserved. </p>
             </div>
+
+            <div class="collapse" id="collapseExample">
+                <div class="card card-body text-black" style="width: -200px;">
+                  Our Servers Are Currently On Located In England London, Having A <br>Wide Range Of Europe With The Lowest Ping Possible.
+                </div>
+              </div>
